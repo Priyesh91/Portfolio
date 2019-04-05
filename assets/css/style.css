@@ -6,3 +6,14 @@
 /* .intro-text {
   padding-top: 150px;
 } */
+
+.resumeethumbnail {
+  height: 200px;
+  border-style: solid;
+  
+}
+
+.btb {
+  border-top-style: solid;
+  color: grey;
+}
